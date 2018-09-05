@@ -1,0 +1,17 @@
+﻿生成启动时间为 2018/8/21 10:02:40。
+     1>项目“C:\Users\Administrator\Desktop\MaiKeMarket\MaiKeMarket\MaiKeMarket.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\Administrator\Documents\Visual Studio 2012\Projects\MaiKeMarket\MaiKeMarket\src\CTP_API" /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Debug\MaiKeMarket.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt MaiKeMarketApi.cpp
+         MaiKeMarketApi.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\MaiKeMarket\x64\Debug\MaiKeMarket.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Administrator\Documents\Visual Studio 2012\Projects\MaiKeMarket\MaiKeMarket\src\CTP_API" thostmduserapi.lib thosttraderapi.lib libmysql.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Administrator\Desktop\MaiKeMarket\x64\Debug\MaiKeMarket.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\MaiKeMarket\x64\Debug\MaiKeMarket.lib" /MACHINE:X64 x64\Debug\iniClass.obj
+         x64\Debug\MaiKeMarketApi.obj
+         x64\Debug\MaiKeMarketSpi.obj
+         x64\Debug\MySQLManager.obj
+         x64\Debug\stdafx.obj
+         MaiKeMarket.vcxproj -> C:\Users\Administrator\Desktop\MaiKeMarket\x64\Debug\MaiKeMarket.exe
+     1>已完成生成项目“C:\Users\Administrator\Desktop\MaiKeMarket\MaiKeMarket\MaiKeMarket.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.54
